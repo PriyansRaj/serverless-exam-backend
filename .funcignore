@@ -1,0 +1,6 @@
+
+.vscode
+.git
+local.settings.json
+*.test.js
+deploy.zip
