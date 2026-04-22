@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=examsystemstorage;AccountKey=4HhPGN+3DL9eM0VgG2mcVvCMrnamTJja53UI1OrBXFnoGqdqeDoyrSFqDGrEoO7Abw+JOY8v1NC2+ASt4esg5A==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~20",
+    "COSMOS_CONNECTION_STRING": "AccountEndpoint=https://examdb.documents.azure.com:443/;AccountKey=eolB0gLSUXk3xZihJGFk15ShRQN9BdJwgD4uPtn24qfFAJVb5biUPfBddwehOtTG36gxv2i0i6fuACDbKYJsDQ==;",
+    "COMMUNICATION_CONNECTION_STRING": "endpoint=https://examsystemrg.unitedstates.communication.azure.com/;accesskey=FWe548Ju0IAYmdF3Yk9WITflwrLPJYoXwa7XW68ziKBRiZcr6P4SJQQJ99CDACULyCpOuD1XAAAAAZCSlAf7",
+    "SENDER_EMAIL": "donotreply@f02cd2de-6675-4435-9167-13c84080befd.azurecomm.net"
+  }
+}
